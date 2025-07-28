@@ -16,6 +16,9 @@ A Telegram bot that generates AI images from text prompts using Pollinations.ai 
 - Python 3.8+
 - Telegram bot token (get from [@BotFather](https://t.me/BotFather))
 
+### Demo
+- For Demo try this [PrompArt BOT](https://t.me/alienimgenbot)
+
 ### Installation
 1. Clone the repository:
    ```bash
